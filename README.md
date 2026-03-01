@@ -1,0 +1,2 @@
+# jangkrik
+my portofolio web
